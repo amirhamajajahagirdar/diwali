@@ -46,6 +46,10 @@ const DIWALI_CONFIG = {
       name: "Fahim",
       message: "Happy Diwali, bro! 🪔🎮 May your life be filled with happiness, success, and endless victories. Keep grinding, keep improving, and may you always get those perfect headshots in Free Fire! 😂🔥 From intense rank pushes to crazy gaming moments, every match is another memory worth keeping. May you get Booyahs in the game and victories in real life too! Stay strong, keep shining, and never stop being the amazing bro you are. Have an epic Diwali, brother! ❤️🎆"
     },
+    vibha: {
+      name: "Vibha",
+      message: "Happy Diwali, Vibha! 🪔 May your life be filled with happiness, success, beautiful memories, and endless opportunities. You hold a special place in my college journey because you were my very first female friend in college! 😊 It's always nice to have someone who makes the college experience a little more memorable. May you keep smiling, achieving your dreams, and spreading positivity wherever you go. Wishing you a bright future and a wonderful Diwali filled with love and laughter. Stay amazing! ❤️🎆"
+    },
     family: {
       name: "My dear family",
       message: "Your love is the brightest light in my life. May our home always be filled with warmth, health, and togetherness."
