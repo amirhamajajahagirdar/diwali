@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#17091f">
+  <title>Happy Diwali ✨ Best wishes from Amir</title>
+  <meta name="description" content="Happy Diwali! Best wishes from Amir.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Happy Diwali ✨">
+  <meta property="og:description" content="Wishing you light, joy, peace, and prosperity. Best wishes from Amir.">
+  <meta property="og:site_name" content="Amir's Diwali Wishes">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="stars" aria-hidden="true"></div>
+  <div id="fireworks" aria-hidden="true"></div>
+  <main>
+    <p class="eyebrow">A little Diwali surprise for</p>
+    <h1 id="recipientName">Dear friend</h1>
+
+    <section class="recipient-picker" aria-label="Choose a recipient">
+      <label for="recipientInput">Enter your friend’s name or saved ID</label>
+      <div class="picker-row">
+        <input id="recipientInput" type="text" maxlength="50" placeholder="Example: Priya" autocomplete="name">
+        <button id="showGreeting" type="button">Show greeting</button>
+      </div>
+    </section>
+
+    <button id="envelope" class="envelope" type="button" aria-expanded="false" aria-controls="greetingCard">
+      <span class="flap" aria-hidden="true"></span>
+      <span class="letter" aria-hidden="true"></span>
+      <span class="seal" aria-hidden="true">🪔</span>
+      <span class="sr-only">Open your Diwali greeting</span>
+    </button>
+    <p id="tapPrompt" class="tap-prompt">Tap the diya to open your message</p>
+
+    <article id="greetingCard" class="greeting-card" hidden>
+      <div class="rangoli" aria-hidden="true">✦</div>
+      <p class="wish">Happy Diwali</p>
+      <p id="message" class="message"></p>
+      <p id="signature" class="signature"></p>
+      <button id="celebrate" type="button">Make a wish ✨</button>
+    </article>
+    <p class="footer">May every diya lead you toward joy and light.</p>
+  </main>
+  <script src="config.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
