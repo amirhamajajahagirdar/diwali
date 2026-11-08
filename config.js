@@ -2,7 +2,7 @@
 const DIWALI_CONFIG = {
   sender: "Best wishes from Amirhamaja",
   friends: {
-    priya: {
+    amir: {
       name: "Amir",
       message: "Happy Diwali, Amir! 🪔💻 May your life be filled with success, happiness and endless opportunities. Keep coding, keep mastering your laptop and keep surprising everyone by topping without studying! 😂 Our group's real tech genius. Have an amazing Diwali, bro! ❤️🎆"
     },
