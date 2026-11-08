@@ -8,7 +8,7 @@ const DIWALI_CONFIG = {
     },
     digvijay: {
       name: "Digvijay",
-      message: "Here’s to brighter ideas, happier adventures, and plenty of reasons to celebrate. Have a wonderfully sparkling Diwali!"
+      message: "Happy Diwali, FT Baller! 🪔⚽ May your life be filled with success, happiness, and endless victories. Keep training hard, scoring goals, building that beast physique, and making your club proud! 💪🔥 May every goal you chase in football and in life find its way into the net. Our college's very own football machine! 😂 Keep shining on and off the pitch, bro. Have an amazing Diwali! ❤️🎆"
     },
     janhavi: {
       name: "Janhavi",
